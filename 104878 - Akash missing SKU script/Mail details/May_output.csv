@@ -1,0 +1,4 @@
+Order Id, Status, CreatedOn, SKU Refs, Required Quantity, Price
+655,Cancelado,2020-05-14T20:06:32.129Z,38748591,3,195
+481,Orden con Cancelacion,2020-05-14T18:41:19.908Z,40356293,1,195
+481,Orden con Cancelacion,2020-05-14T18:41:19.908Z,40356295,1,195

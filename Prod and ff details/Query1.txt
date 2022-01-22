@@ -1,0 +1,52 @@
+query{
+  fulfilmentOptions(createdOn:{
+    from:"2020-11-09T19:48:14.433Z" to:"2020-11-09T19:53:14.433Z"
+  }){
+    edges{
+      node{
+        plans{
+          edges{
+            node{
+
+              fulfilments{
+                locationRef
+                items{
+                  productRef
+                  availableQuantity
+                  requestedQuantity
+
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+
+
+
+query{
+  fulfilmentById(id:"67680"){
+    order{
+      id
+      createdOn
+      fulfilments{
+        edges{
+          node{
+            items{
+              edges{
+                node{
+                  ref
+                  requestedQuantity
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

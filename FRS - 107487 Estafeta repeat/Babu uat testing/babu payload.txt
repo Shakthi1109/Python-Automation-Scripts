@@ -1,0 +1,550 @@
+{
+    "customer": {
+        "firstName": "Mohit",
+        "lastName": "Lahoti",
+        "email": "mohit.lahoti@bridgesgi.com",
+        "mobile": "+91 9876543210"
+    },
+    "items": [
+        {
+            "skuRef": "39899049",
+            "skuPrice": 51000,
+            "totalPrice": 51399,
+            "skuTaxPrice": 399,
+            "totalTaxPrice": 299,
+            "taxType": "GST",
+            "currency": "MXN",
+            "requestedQty": 2
+        },
+        {
+            "skuRef": "40409611",
+            "skuPrice": 51000,
+            "totalPrice": 51399,
+            "skuTaxPrice": 399,
+            "totalTaxPrice": 299,
+            "taxType": "GST",
+            "currency": "MXN",
+            "requestedQty": 2
+        },
+        {
+            "skuRef": "40649200",
+            "skuPrice": 51000,
+            "totalPrice": 51399,
+            "skuTaxPrice": 399,
+            "totalTaxPrice": 299,
+            "taxType": "GST",
+            "currency": "MXN",
+            "requestedQty": 2
+        },
+        {
+            "skuRef": "40674872",
+            "skuPrice": 51000,
+            "totalPrice": 51399,
+            "skuTaxPrice": 399,
+            "totalTaxPrice": 299,
+            "taxType": "GST",
+            "currency": "MXN",
+            "requestedQty": 2
+        },
+        {
+            "skuRef": "40409615",
+            "skuPrice": 51000,
+            "totalPrice": 51399,
+            "skuTaxPrice": 399,
+            "totalTaxPrice": 299,
+            "taxType": "GST",
+            "currency": "MXN",
+            "requestedQty": 2
+        },
+        {
+            "skuRef": "40649180",
+            "skuPrice": 51000,
+            "totalPrice": 51399,
+            "skuTaxPrice": 399,
+            "totalTaxPrice": 299,
+            "taxType": "GST",
+            "currency": "MXN",
+            "requestedQty": 2
+        },
+        {
+            "skuRef": "40674874",
+            "skuPrice": 51000,
+            "totalPrice": 51399,
+            "skuTaxPrice": 399,
+            "totalTaxPrice": 299,
+            "taxType": "GST",
+            "currency": "MXN",
+            "requestedQty": 2
+        },
+        {
+            "skuRef": "40264053",
+            "skuPrice": 51000,
+            "totalPrice": 51399,
+            "skuTaxPrice": 399,
+            "totalTaxPrice": 299,
+            "taxType": "GST",
+            "currency": "MXN",
+            "requestedQty": 2
+        },
+        {
+            "skuRef": "39649192",
+            "skuPrice": 51000,
+            "totalPrice": 51399,
+            "skuTaxPrice": 399,
+            "totalTaxPrice": 299,
+            "taxType": "GST",
+            "currency": "MXN",
+            "requestedQty": 2
+        },
+        {
+            "skuRef": "40649209",
+            "skuPrice": 51000,
+            "totalPrice": 51399,
+            "skuTaxPrice": 399,
+            "totalTaxPrice": 299,
+            "taxType": "GST",
+            "currency": "MXN",
+            "requestedQty": 2
+        },
+        {
+            "skuRef": "40649210",
+            "skuPrice": 51000,
+            "totalPrice": 51399,
+            "skuTaxPrice": 399,
+            "totalTaxPrice": 299,
+            "taxType": "GST",
+            "currency": "MXN",
+            "requestedQty": 2
+        }
+    ],
+    "orderRef": "301120200155646446",
+    "retailerId": "2",
+    "totalPrice": "102000",
+    "fulfilmentChoice": {
+        "fulfilmentPrice": 5,
+        "fulfilmentTaxPrice": 0.50,
+        "fulfilmentType": "HD_PFS",
+        "currency": "MXN",
+        "deliveryType": "STANDARD",
+        "deliveryInstruction": "Leave in bin.",
+        "address": {
+            "name": "Mohit Lahoti",
+            "companyName": "BRIDGE",
+            "street": "Mitla 410, Narvarte Poniente",
+            "city": "Benito Juárez",
+            "postcode": "25045",
+            "state": "Regional",
+            "country": "MX"
+        }
+    },
+    "attributes": [{
+            "name": "sfcc.created_by",
+            "value": "Customer",
+            "type": "STRING"
+        },
+        {
+            "name": "sfcc.customer_locale",
+            "value": "es_MX",
+            "type": "STRING"
+        },
+        {
+            "name": "productAttributes",
+            "type": "JSON",
+            "value": [
+                {
+                    "IVA": "16",
+                    "ean": "200400771870",
+                    "upc": "192485195644",
+                    "IEPS": "0",
+                    "type": "1",
+                    "brand": "el-palacio",
+                    "skuRef": "39899049",
+                    "options": [],
+                    "category": "CANGURERAS",
+                    "taxClass": "2",
+                    "categoryID": "1010010310",
+                    "typeArticle": "FASH",
+                    "departmentID": "10749",
+                    "departmentDesc": "TORY BURCH BOLSAS Y ACCESORIOS",
+                    "palacioInstallmentPaymentId": "060003",
+                    "palacioInstallmentPaymentDescription": "6 Meses Sin Interest",
+                    "palacioInstallmentPaymentInterest": "1",
+                    "productDiscount": 12.5,
+                    "palacioDiscountType": "Z104",
+                    "palacioDiscountIndicator": "0"
+                },
+                {
+                    "IVA": "16",
+                    "ean": "200400771870",
+                    "upc": "192485195644",
+                    "IEPS": "0",
+                    "type": "1",
+                    "brand": "el-palacio",
+                    "skuRef": "40409611",
+                    "options": [],
+                    "category": "CANGURERAS",
+                    "taxClass": "2",
+                    "categoryID": "1010010310",
+                    "typeArticle": "FASH",
+                    "departmentID": "10749",
+                    "departmentDesc": "TORY BURCH BOLSAS Y ACCESORIOS",
+                    "palacioInstallmentPaymentId": "060003",
+                    "palacioInstallmentPaymentDescription": "6 Meses Sin Interest",
+                    "palacioInstallmentPaymentInterest": "1",
+                    "productDiscount": 12.5,
+                    "palacioDiscountType": "Z104",
+                    "palacioDiscountIndicator": "0"
+                },
+                {
+                    "IVA": "16",
+                    "ean": "200400771870",
+                    "upc": "192485195644",
+                    "IEPS": "0",
+                    "type": "1",
+                    "brand": "el-palacio",
+                    "skuRef": "40649200",
+                    "options": [],
+                    "category": "CANGURERAS",
+                    "taxClass": "2",
+                    "categoryID": "1010010310",
+                    "typeArticle": "FASH",
+                    "departmentID": "10749",
+                    "departmentDesc": "TORY BURCH BOLSAS Y ACCESORIOS",
+                    "palacioInstallmentPaymentId": "060003",
+                    "palacioInstallmentPaymentDescription": "6 Meses Sin Interest",
+                    "palacioInstallmentPaymentInterest": "1",
+                    "productDiscount": 12.5,
+                    "palacioDiscountType": "Z104",
+                    "palacioDiscountIndicator": "0"
+                },
+                {
+                    "IVA": "16",
+                    "ean": "200400771870",
+                    "upc": "192485195644",
+                    "IEPS": "0",
+                    "type": "1",
+                    "brand": "el-palacio",
+                    "skuRef": "40674872",
+                    "options": [],
+                    "category": "CANGURERAS",
+                    "taxClass": "2",
+                    "categoryID": "1010010310",
+                    "typeArticle": "FASH",
+                    "departmentID": "10749",
+                    "departmentDesc": "TORY BURCH BOLSAS Y ACCESORIOS",
+                    "palacioInstallmentPaymentId": "060003",
+                    "palacioInstallmentPaymentDescription": "6 Meses Sin Interest",
+                    "palacioInstallmentPaymentInterest": "1",
+                    "productDiscount": 12.5,
+                    "palacioDiscountType": "Z104",
+                    "palacioDiscountIndicator": "0"
+                },
+                {
+                    "IVA": "16",
+                    "ean": "200400771870",
+                    "upc": "192485195644",
+                    "IEPS": "0",
+                    "type": "1",
+                    "brand": "el-palacio",
+                    "skuRef": "40409615",
+                    "options": [],
+                    "category": "CANGURERAS",
+                    "taxClass": "2",
+                    "categoryID": "1010010310",
+                    "typeArticle": "FASH",
+                    "departmentID": "10749",
+                    "departmentDesc": "TORY BURCH BOLSAS Y ACCESORIOS",
+                    "palacioInstallmentPaymentId": "060003",
+                    "palacioInstallmentPaymentDescription": "6 Meses Sin Interest",
+                    "palacioInstallmentPaymentInterest": "1",
+                    "productDiscount": 12.5,
+                    "palacioDiscountType": "Z104",
+                    "palacioDiscountIndicator": "0"
+                },
+                {
+                    "IVA": "16",
+                    "ean": "200400771870",
+                    "upc": "192485195644",
+                    "IEPS": "0",
+                    "type": "1",
+                    "brand": "el-palacio",
+                    "skuRef": "40649180",
+                    "options": [],
+                    "category": "CANGURERAS",
+                    "taxClass": "2",
+                    "categoryID": "1010010310",
+                    "typeArticle": "FASH",
+                    "departmentID": "10749",
+                    "departmentDesc": "TORY BURCH BOLSAS Y ACCESORIOS",
+                    "palacioInstallmentPaymentId": "060003",
+                    "palacioInstallmentPaymentDescription": "6 Meses Sin Interest",
+                    "palacioInstallmentPaymentInterest": "1",
+                    "productDiscount": 12.5,
+                    "palacioDiscountType": "Z104",
+                    "palacioDiscountIndicator": "0"
+                },
+                {
+                    "IVA": "16",
+                    "ean": "200400771870",
+                    "upc": "192485195644",
+                    "IEPS": "0",
+                    "type": "1",
+                    "brand": "el-palacio",
+                    "skuRef": "40674874",
+                    "options": [],
+                    "category": "CANGURERAS",
+                    "taxClass": "2",
+                    "categoryID": "1010010310",
+                    "typeArticle": "FASH",
+                    "departmentID": "10749",
+                    "departmentDesc": "TORY BURCH BOLSAS Y ACCESORIOS",
+                    "palacioInstallmentPaymentId": "060003",
+                    "palacioInstallmentPaymentDescription": "6 Meses Sin Interest",
+                    "palacioInstallmentPaymentInterest": "1",
+                    "productDiscount": 12.5,
+                    "palacioDiscountType": "Z104",
+                    "palacioDiscountIndicator": "0"
+                },
+                {
+                    "IVA": "16",
+                    "ean": "200400771870",
+                    "upc": "192485195644",
+                    "IEPS": "0",
+                    "type": "1",
+                    "brand": "el-palacio",
+                    "skuRef": "40264053",
+                    "options": [],
+                    "category": "CANGURERAS",
+                    "taxClass": "2",
+                    "categoryID": "1010010310",
+                    "typeArticle": "FASH",
+                    "departmentID": "10749",
+                    "departmentDesc": "TORY BURCH BOLSAS Y ACCESORIOS",
+                    "palacioInstallmentPaymentId": "060003",
+                    "palacioInstallmentPaymentDescription": "6 Meses Sin Interest",
+                    "palacioInstallmentPaymentInterest": "1",
+                    "productDiscount": 12.5,
+                    "palacioDiscountType": "Z104",
+                    "palacioDiscountIndicator": "0"
+                },
+                {
+                    "IVA": "16",
+                    "ean": "200400771870",
+                    "upc": "192485195644",
+                    "IEPS": "0",
+                    "type": "1",
+                    "brand": "el-palacio",
+                    "skuRef": "39649192",
+                    "options": [],
+                    "category": "CANGURERAS",
+                    "taxClass": "2",
+                    "categoryID": "1010010310",
+                    "typeArticle": "FASH",
+                    "departmentID": "10749",
+                    "departmentDesc": "TORY BURCH BOLSAS Y ACCESORIOS",
+                    "palacioInstallmentPaymentId": "060003",
+                    "palacioInstallmentPaymentDescription": "6 Meses Sin Interest",
+                    "palacioInstallmentPaymentInterest": "1",
+                    "productDiscount": 12.5,
+                    "palacioDiscountType": "Z104",
+                    "palacioDiscountIndicator": "0"
+                },
+                {
+                    "IVA": "16",
+                    "ean": "200400771870",
+                    "upc": "192485195644",
+                    "IEPS": "0",
+                    "type": "1",
+                    "brand": "el-palacio",
+                    "skuRef": "40649209",
+                    "options": [],
+                    "category": "CANGURERAS",
+                    "taxClass": "2",
+                    "categoryID": "1010010310",
+                    "typeArticle": "FASH",
+                    "departmentID": "10749",
+                    "departmentDesc": "TORY BURCH BOLSAS Y ACCESORIOS",
+                    "palacioInstallmentPaymentId": "060003",
+                    "palacioInstallmentPaymentDescription": "6 Meses Sin Interest",
+                    "palacioInstallmentPaymentInterest": "1",
+                    "productDiscount": 12.5,
+                    "palacioDiscountType": "Z104",
+                    "palacioDiscountIndicator": "0"
+                },
+                {
+                    "IVA": "16",
+                    "ean": "200400771870",
+                    "upc": "192485195644",
+                    "IEPS": "0",
+                    "type": "1",
+                    "brand": "el-palacio",
+                    "skuRef": "40649210",
+                    "options": [],
+                    "category": "CANGURERAS",
+                    "taxClass": "2",
+                    "categoryID": "1010010310",
+                    "typeArticle": "FASH",
+                    "departmentID": "10749",
+                    "departmentDesc": "TORY BURCH BOLSAS Y ACCESORIOS",
+                    "palacioInstallmentPaymentId": "060003",
+                    "palacioInstallmentPaymentDescription": "6 Meses Sin Interest",
+                    "palacioInstallmentPaymentInterest": "1",
+                    "productDiscount": 12.5,
+                    "palacioDiscountType": "Z104",
+                    "palacioDiscountIndicator": "0"
+                }
+
+            ]
+        },
+        {
+            "name": "billingAddressAttributes",
+            "value": {
+                "city": "Ciudad de México",
+                "name": "Abraham Moreno",
+                "phone": "55 8212 6664",
+                "state": "Insurgentes San Borja",
+                "street": "Gabriel Mancera",
+                "country": "MX",
+                "address2": "",
+                "landmark": "",
+                "lastName": "Moreno",
+                "postcode": "64000",
+                "firstName": "Abraham",
+                "lastName2": "Meza",
+                "firstName2": "",
+                "innerNumber": "1",
+                "outerNumber": "319",
+                "municipality": "Benito Juárez"
+            },
+            "type": "JSON"
+        },
+        {
+            "name": "orderSummary",
+            "value": {
+                "total": 2579,
+                "subtotal": 2579,
+                "shippingCost": 0,
+                "ticketNumber": 1234
+            },
+            "type": "JSON"
+        },
+        {
+            "name": "paymentAttributes",
+            "value": [{
+                "status": "PAID",
+                "tokenId": "000001",
+                "authText": "ACCEPT",
+                "cardType": "DISCO",
+                "currency": "MXN",
+                "createdOn": "2020-03-22T20:12:52.356Z",
+                "updatedOn": "2020-03-22T20:12:52.356Z",
+                "cardHolder": "Abraham Moreno M",
+                "lastDigits": "5954",
+                "installmentId": "000001",
+                "paymentMethod": "08",
+                "transactionId": "3VW58",
+                "expirationDate": "6/50",
+                "originalTerminalId": "205",
+                "tandemResponseCode": "APPROVED",
+                "paymentProviderName": "DATACASH",
+                "transactionInfoCount": "0",
+                "externalTransactionId": "S300003440",
+                "externalTransactionCode": "4404",
+                "responseCode": "001"
+            }],
+            "type": "JSON"
+        },
+        {
+            "name": "storeAttributes",
+            "value": {},
+            "type": "JSON"
+        },
+        {
+            "name": "sfcc.order_date",
+            "value": "2020-03-22T20:12:52.242Z",
+            "type": "STRING"
+        },
+        {
+            "name": "sfcc.shipments",
+            "value": {
+                "shipments": [{
+                    "items": [
+                        {
+                            "skuRef": "39899049",
+                            "quantity": 2
+                        },
+                            {
+                            "skuRef": "40409611",
+                            "quantity": 2
+                        },
+                            {
+                            "skuRef": "40649200",
+                            "quantity": 2
+                        },
+                            {
+                            "skuRef": "40674872",
+                            "quantity": 2
+                        },
+                            {
+                            "skuRef": "40409615",
+                            "quantity": 2
+                        },
+                            {
+                            "skuRef": "40649180",
+                            "quantity": 2
+                        },
+                            {
+                            "skuRef": "40674874",
+                            "quantity": 2
+                        },
+                            {
+                            "skuRef": "40264053",
+                            "quantity": 2
+                        },
+                            {
+                            "skuRef": "39649192",
+                            "quantity": 2
+                        },
+                            {
+                            "skuRef": "40649209",
+                            "quantity": 2
+                        },
+                            {
+                            "skuRef": "40649210",
+                            "quantity": 2
+                        }
+                    ],
+                    "isGift": false,
+                    "shipmentId": "00011030",
+                    "giftMessage": null,
+                    "shippingAddress": {
+                        "city": "Ciudad de México",
+                        "name": "Abraham Moreno",
+                        "phone": "55 8212 6664",
+                        "state": "Insurgentes San Borja",
+                        "street": "Gabriel Mancera Romero y Luz",
+                        "country": "MX",
+                        "address2": "Romero y Luz",
+                        "landmark": "Edificio Naranja",
+                        "lastName": "Moreno",
+                        "postcode": "64000",
+                        "firstName": "Abraham",
+                        "lastName2": "Meza",
+                        "firstName2": "",
+                        "innerNumber": "1",
+                        "outerNumber": "319",
+                        "municipality": "Benito Juarez"
+                    },
+                    "shippingMethodRef": "STANDARD"
+                }]
+            },
+            "type": "JSON"
+        },
+        {
+            "name": "sfcc.customer_type",
+            "value": "",
+            "type": "STRING"
+        }
+    ],
+    "type": "HD"
+}

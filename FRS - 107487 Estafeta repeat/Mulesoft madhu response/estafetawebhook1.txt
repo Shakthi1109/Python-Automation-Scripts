@@ -1,0 +1,99 @@
+{
+  "request": [
+    {
+      "createLableRequest": {
+        "customerNumber": "8634787",
+        "labelDescriptionList": {
+          "DRAlternativeInfo": {
+            "address1": "AV. COYOACAN 1617 TORREC PB7 E",
+            "address2": "EJE 8 Y RODRIGUEZ ZARO ENFRENT",
+            "cellPhone": "55 2966 6946",
+            "phoneNumber": "55 2966 6946",
+            "city": "CIUDAD DE MEXICO",
+            "contactName": "FERNANDA AREVALO",
+            "corporateName": "Cliente Palacio",
+            "customerNumber": "8634787",
+            "neighborhood": "CIUDAD DE MEXICO",
+            "state": "DEL VALLE CENTRO",
+            "valid": true,
+            "zipCode": "03100"
+          },
+          "aditionalInfo": "ENFRENTE DE JARRITOS",
+          "content": "60",
+          "deliveryToEstafetaOffice": false,
+          "destinationCountryId": "MX",
+          "destinationInfo": {
+            "address1": "AV. COYOACAN 1617 TORREC PB7 E",
+            "address2": "EJE 8 Y RODRIGUEZ ZARO ENFRENT",
+            "cellPhone": "55 2966 6946",
+            "phoneNumber": "55 2966 6946",
+            "city": "CIUDAD DE MEXICO",
+            "contactName": "FERNANDA AREVALO",
+            "corporateName": "Cliente Palacio",
+            "customerNumber": "8634787",
+            "neighborhood": "CIUDAD DE MEXICO",
+            "state": "DEL VALLE CENTRO",
+            "valid": true,
+            "zipCode": "03100"
+          },
+          "effectiveDate": "",
+          "numberOfLabels": 1,
+          "officeNum": "651",
+          "originInfo": {
+            "address1": "Av. Tejocotes s/n, San Martin ",
+            "address2": " Obsipo",
+            "cellPhone": "",
+            "city": "Cuautitlan Izcalli",
+            "contactName": "Centro de Distribucion ECOM",
+            "corporateName": "El Palacio de Hierro",
+            "customerNumber": "8634787",
+            "neighborhood": "Cuautitlan Izcalli",
+            "state": "Estado de Mexico",
+            "valid": true,
+            "zipCode": "54769"
+          },
+          "originZipCodeForRouting": "54769",
+          "parcelTypeId": "4",
+          "reference": "1001465383",
+          "returnDocument": false,
+          "serviceTypeId": "60",
+          "serviceTypeIdDocRet": "MM",
+          "valid": true,
+          "weight": 0.0
+        },
+        "labelDescriptionListCount": 1,
+        "paperType": 2,
+        "quadrant": 1,
+        "waveId": "663162",
+        "entityId": "1403556"
+      }
+    }
+  ],
+  "response": {
+    "createLabelResponse": {
+      "multiRef": [
+        {
+          "labelPDF": "sftp://10.10.11.49/home/sftp2/ecommerce_salesforce/estafeta/guias/663162-1403556.pdf",
+          "s3BucketUrlLabel": "shared/palacio/663162-1403556.pdf",
+          "valid": true
+        },
+        {
+          "labelPDF": "",
+          "s3BucketUrlLabel": "shared/palacio/663162-1403556.pdf",
+          "valid": true,
+          "resultCode": "0",
+          "resultDescription": "5018634787651600977179",
+          "resultSpanishDescription": "5018634787651600977179"
+        },
+        {
+          "labelPDF": "",
+          "s3BucketUrlLabel": "shared/palacio/663162-1403556.pdf",
+          "valid": true,
+          "resultCode": "0",
+          "resultDescription": "OK",
+          "resultSpanishDescription": "OK"
+        }
+      ]
+    }
+  }
+}

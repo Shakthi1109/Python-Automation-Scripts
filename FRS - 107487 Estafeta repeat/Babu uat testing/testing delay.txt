@@ -1,0 +1,9 @@
+95394 - No failed; 1 estafeta
+
+95395 - failed
+
+95396- all good
+
+95397 - goood
+
+95398 - failed; multilple

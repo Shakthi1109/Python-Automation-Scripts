@@ -1,0 +1,42 @@
+query getWaveById($id: ID!, $includeAttributes: Boolean!,
+  $fulfilmentsCount: Int,
+  $fulfilmentsCursor: String,
+  $includefulfilments: Boolean!
+) {
+  waveById(id: $id) {
+    id
+    ref
+    name
+    status
+    type
+    attributes @include(if: $includeAttributes) {
+      name
+      type
+      value
+    }
+    fulfilments (first:$fulfilmentsCount,after:$fulfilmentsCursor) @include(if: $includefulfilments) {
+      edges {
+        node {
+          id
+          ref
+          status
+          type
+          eta
+          expiryTime
+          order {
+            id
+            ref
+            retailer {
+              id
+            }
+          }
+        }
+        cursor
+      }
+      pageInfo {
+        hasPreviousPage
+        hasNextPage
+      }
+    }
+  }
+}
